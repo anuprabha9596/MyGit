@@ -2,8 +2,8 @@
 
 class Hello(){
 
-	static void myMethod(){
-		sysout("My Method");
+	static String myMethod(){
+		return "My Method";
 	}
 	
 	public static void main(String args[]){
