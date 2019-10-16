@@ -2,7 +2,8 @@
 
 class Hello(){
 	public static void main(String args[]){
-		System.out.println("Java application to print Welcome to GIT");
+
+		System.out.println("This will print... *** Welcome to GIT");
 	}
 }
 
